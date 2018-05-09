@@ -1,3 +1,4 @@
+/*借口定义*/
 package logger
 
 type LogInterface interface {

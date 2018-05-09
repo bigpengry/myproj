@@ -23,7 +23,7 @@ func initLogger(name, logPath, logName string, level string) (err error) {
 
 func Run() {
 	for {
-		logger.Debug("user server is running, :\\project\\src\\github.com\\pingguoxueyuan\\gostudy\\listen17\\user_server")
+		logger.Debug("user server is running, :\\project\\src\\")
 		time.Sleep(time.Second)
 	}
 }
