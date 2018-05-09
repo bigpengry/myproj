@@ -1,3 +1,4 @@
+/*日志输出到控制台模块*/
 package logger
 
 import (
